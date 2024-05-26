@@ -1,0 +1,14 @@
+{
+  "name": "threejs-journey",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.164.1",
+    "vite": "^5.2.11"
+  }
+}
